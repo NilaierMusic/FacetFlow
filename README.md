@@ -1,4 +1,4 @@
-![FacetFlow Logo](/docs/logo.png 'FacetFlow Logo')
+![FacetFlow Logo](/docs/title.png 'FacetFlow Logo')
 # FacetFlow
 
 FacetFlow is a comprehensive Python library for calculating areas of various geometric shapes with incredible ease. The library comes with core calculations for common shapes like triangle and circle, but is designed with extensibility in mind — allowing you to whip up your own scripts for additional shapes as needed.
